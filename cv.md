@@ -1,5 +1,5 @@
 # **PIOTR BAUSIUK**
-![This me](/assets/IMG_rss.JPG)
+![This me](/assets/IMG_rss.jpg)
 ## **RS School student. JavaScript/Front-end 2023Q4**
 ****
 
