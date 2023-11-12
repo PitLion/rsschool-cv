@@ -25,6 +25,7 @@ For many years I have been working as an expert in the study of manuscripts and 
 - Git, GitHub
 - VS Code
 - Figma
+- Webpack
 - TypeScript (in process)
 
 ## **Code Example:**
@@ -41,15 +42,17 @@ function score(a, b) {
 }
 ```
 ## **Experience:**
-[Burger](https://github.com/PitLion/Burger)
+[Momentum](https://rollscopesschool-pitlionjspre22q4.netlify.app/#en)
 
-[travel](https://rolling-scopes-school.github.io/pitlion-JSFEPRESCHOOL2022Q2/travel/)
+[Travel](https://rolling-scopes-school.github.io/pitlion-JSFEPRESCHOOL2022Q2/travel/)
+
+[Plants](https://pitlion.github.io/Plants/plants/)
 
 ## **Courses and books:**
 **Courses:**
 - RS Schools Course ***JS/FE Pre-School 2022Q2***
 - RS Schools Course ***JS/FE Pre-School 2022Q4***
-- RS Schools Course ***JavaScript/Front-end 2023Q1*** (in progress)
+- RS Schools Course ***JavaScript/Front-end 2023Q1***
 
 **Books:**
 1. *Eric Freeman, Elisabeth Robson  Head First HTML and CSS*
@@ -64,4 +67,4 @@ function score(a, b) {
 - Russian 
 - Polish - Basic
 - German - Basic
-- English - A1-A2
+- English - A2
