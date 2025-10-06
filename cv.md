@@ -15,8 +15,8 @@ For many years I have been working as an expert in the study of manuscripts and 
 
 ## **Hobbies:**
 - Traveling
-- Reading
-- Music
+  - Reading
+    - Music
 
 ## **Skills and Proficiency:**
 - HTML
@@ -51,8 +51,8 @@ function score(a, b) {
 ## **Courses and books:**
 **Courses:**
 - RS Schools Course ***JS/FE Pre-School 2022Q2***
-- RS Schools Course ***JS/FE Pre-School 2022Q4***
-- RS Schools Course ***JavaScript/Front-end 2023Q1***
+  - RS Schools Course ***JS/FE Pre-School 2022Q4***
+    - RS Schools Course ***JavaScript/Front-end 2023Q1***
 
 **Books:**
 1. *Eric Freeman, Elisabeth Robson  Head First HTML and CSS*
